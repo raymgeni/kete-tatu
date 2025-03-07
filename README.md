@@ -13,9 +13,7 @@ How to play
 acceptable winning lines
 
 111
-
 000
-
 000
 
 
