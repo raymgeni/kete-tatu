@@ -8,72 +8,80 @@ How to play
 
 1. Players will play in turns to try to create a straight line with three tokens.
 
-2.If all tokens are placed and there is no winner try moving your tokens to create a straight line
+2. There is a valid move togle that can show you where you can play.
+
+3.If all tokens are placed and there is no winner try moving your tokens to create a straight line
 
 acceptable winning lines
 
-111
+1 1 1
 
-000
+0 0 0
 
-000
+0 0 0
+
+
+.............
+
+0 0 0
+
+1 1 1
+
+0 0 0
 
 
 .............
 
-000
+0 0 0
 
-111
+0 0 0
 
-000
-
-
-.............
-000
-
-000
-
-111
+1 1 1
 
 .............
 
-100
 
-100
+1 0 0
 
-100
+1 0 0
 
-
-.............
-010
-
-010
-
-010
+1 0 0
 
 
 .............
-001
 
-001
+0 1 0
 
-001
+0 1 0
 
-.............
-
-l00
-
-010
-
-001 
+0 1 0
 
 
 .............
-001
 
-010
+0 0 1
 
-100
+0 0 1
+
+0 0 1
+
+.............
 
 
-3. Enjoy
+l 0 0
+
+0 1 0
+
+0 0 1 
+
+
+.............
+
+0 0 1
+
+0 1 0
+
+1 0 0
+
+
+4. Enjoy! 
